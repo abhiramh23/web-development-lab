@@ -19,4 +19,4 @@ HTML use for making webpages for website with help of tags
 
 ## Lab
 
-creating html file for profile  [MyProfile](myprofile.html)
+creating html file for profile  [MyProfile](index.html)
