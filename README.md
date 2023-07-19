@@ -6,6 +6,7 @@
   - [CSS](#css)
   - [Javascript](#javascript)
   - [Lab](#lab)
+    - [program](#program)
 
 ## Fundamental of web
 
@@ -48,3 +49,7 @@ HTML use for making webpages for website with help of tags
 ## Lab
 
 creating html file for profile  [MyProfile](https://abhiramh23.github.io/web-development-lab)
+
+### program
+
+creating html file for chessboard [chessboard](chess/index.html)
