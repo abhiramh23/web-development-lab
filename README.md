@@ -1,5 +1,3 @@
-# Web Technology
-
 - [Web Technology](#web-technology)
   - [Fundamental of web](#fundamental-of-web)
   - [HTML](#html)
@@ -7,6 +5,8 @@
   - [Javascript](#javascript)
   - [Lab](#lab)
     - [program](#program)
+
+# Web Technology
 
 ## Fundamental of web
 
